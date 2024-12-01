@@ -1,7 +1,7 @@
 ### Install
 
 ```bash
-> git clone https://github.com/X-Rkhyg/HEHE
+> git clone https://github.com/Synthever/HEHE
 > cd HEHE
 > npm i -g pm2
 > pip3 install -r requirements.txt
